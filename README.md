@@ -21,3 +21,8 @@ FLASK_APP=app.py flask run --host  0.0.0.0
 # Note
 
 Welcome to contribute and collaborate as we work together to enhance and perfect the ChatWise experience. Your ideas and suggestions are invaluable in helping us create a more engaging and efficient AI chatbot that caters to a wide range of user needs. Join us on this exciting journey to revolutionize online communication with ChatWise.
+
+# Buy me a cup of coffee
+
+![image](https://user-images.githubusercontent.com/10758833/233126420-2570ab07-1698-44dd-bcbb-3f88dd327909.png)
+![image](https://user-images.githubusercontent.com/10758833/233126449-8828d16a-5eb4-44ae-bc9c-2ef2073e1228.png)
